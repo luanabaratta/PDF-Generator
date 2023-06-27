@@ -3,3 +3,10 @@
 
 # system files
 .DS_Store
+
+# npm
+package.json
+package-lock.json
+
+# git
+.gitignore
